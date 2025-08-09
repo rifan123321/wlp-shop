@@ -8,8 +8,8 @@ window.addEventListener('load', () => document.getElementById('loader').remove()
 
 // Produk dummy
 const products = [
-  { id: 1, name: "WLP Toko Online", price: 20000, img: "/assets/img/toko-online.png" },
-  { id: 2, name: "WLP Portofolio", price: 15000, img: "/assets/img/portofolio.jpg" },
+  { id: 1, name: "WLP Toko Online", price: 20000, img: "assets/img/toko-online.png" },
+  { id: 2, name: "WLP Portofolio", price: 15000, img: "assets/img/portofolio.jpg" },
   { id: 3, name: "WLP + Hosting", price: 30000, img: "assets/img/hosting.jpeg" },
   { id: 4, name: "WLP Custom", price: 25000, img: "assets/img/custom.jpg" }
 ];
