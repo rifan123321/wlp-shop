@@ -33,4 +33,3 @@ const products = [
   document.getElementById('loadMore')?.addEventListener('click', () => {
     alert('Fitur "Muat Lagi" akan ditambahkan di update berikutnya.');
   });
-//sosial media klik
